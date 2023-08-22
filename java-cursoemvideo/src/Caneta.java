@@ -4,7 +4,7 @@ public class Caneta {
     float ponta;
     int carga;
     boolean tampada;
-    
+
     //void - sem retorno
     void status(){
         System.out.println("Modelo: " + this.modelo);
